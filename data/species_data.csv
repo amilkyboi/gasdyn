@@ -1,0 +1,6 @@
+name,molar_mass,enthalpy_of_formation,ground_state_elec_energy,ground_state_degeneracy,rotational_temp_const,vibrational_temp_const
+n,14.007,470783.68,0,4,0,0
+o,15.999,250956.32,78,9,0,0
+n2,28.014,0,0,1,2.892,3394.8
+o2,31.998,0,0,3,2.080,2273.7
+no,29.006,89859.768,0,4,2.453,2739.3
